@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 rajaongkir
 ==========
 
@@ -43,3 +44,7 @@ You can cache the get city result so it should not make request to server every 
 
 For more api documentation please  [Visit rajaongkir](rajaongkir.com/dokumentasi)
 
+=======
+# rajaongkir
+Useing Rajaongkir API Shipping Method
+>>>>>>> 97e89dcba2ebe7a004b078244784ac2b2de3b3a0
